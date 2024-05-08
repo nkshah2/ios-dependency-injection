@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/master.swiftdeps"
+  },
+  "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/IosDependencyInjection/Sources/IosDependencyInjectionApp.swift": {
+    "dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/IosDependencyInjectionApp.d",
+    "object": "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/IosDependencyInjectionApp.swift.o",
+    "swiftmodule": "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/IosDependencyInjectionApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/IosDependencyInjectionApp.swiftdeps"
+  }
+}

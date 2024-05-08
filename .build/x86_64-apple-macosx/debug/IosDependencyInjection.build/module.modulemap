@@ -1,0 +1,4 @@
+module IosDependencyInjection {
+    header "/Users/nemi/Documents/GitHub/nkshah2/ios-dependency-injection/.build/x86_64-apple-macosx/debug/IosDependencyInjection.build/IosDependencyInjection-Swift.h"
+    requires objc
+}
